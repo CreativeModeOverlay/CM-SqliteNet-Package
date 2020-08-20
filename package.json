@@ -1,0 +1,12 @@
+{
+    "name": "com.praeclarum.sqlite.net",
+    "displayName": "SQLite-net",
+    "version": "1.7.335",
+    "unity": "2017.1",
+    "description": "Package wrapper for https://github.com/praeclarum/sqlite-net",
+    "dependencies": {},
+	"author": {
+		"name": "praeclarum"
+	},
+	"type": "library"
+}
